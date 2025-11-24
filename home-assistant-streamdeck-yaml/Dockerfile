@@ -13,7 +13,7 @@ RUN apk --no-cache add \
     # Needed for cairosvg
     cairo-dev=1.18.4-r0 \
     # Needed for lxml
-    libxml2-dev=2.13.4-r6 \
+    libxml2-dev=2.13.9-r0 \
     libxslt-dev=1.1.42-r2 \
     # Needed for Pillow
     jpeg-dev=9f-r0 \
