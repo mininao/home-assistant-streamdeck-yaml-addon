@@ -1,6 +1,6 @@
 ---
-name: Home Assistant Stream Deck
-version: "2025.7.0"
+name: Home Assistant Stream Deck (docker fix fork)
+version: "2025.11.1"
 slug: home-assistant-streamdeck-yaml
 description: >
   This add-on allows you to control your Home Assistant
@@ -14,7 +14,7 @@ description: >
   more details. Also check out the add-on documentation
   (https://basnijholt.github.io/home-assistant-streamdeck-yaml-addon/) for
   add-on configuration details.
-url: https://github.com/basnijholt/home-assistant-streamdeck-yaml-addon
+url: https://github.com/mininao/home-assistant-streamdeck-yaml-addon
 hassio_api: true
 homeassistant_api: true
 host_network: true
